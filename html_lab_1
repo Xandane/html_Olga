@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+	 <title>Літні Олімпійські ігри</title
+	 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans ">
+     <link rel="stylesheet" type="text/css" href= "style.css">
+</head>
+<body>
+<div class = "container">
+     <div id = "header">
+	 <h1>Літні Олімпійські ігри 2016</h1>
+	 <img src ="logo.png"width="100" >
+	 <ul class="navbar">
+	     <li class="active"><a href="index.html">Гловна</a></li>
+         <li><a href ="competitions.html">Змагання</a></li>
+		<li><a href ="medals.html">Медальний залік</a></li>
+	   </ul>
+	   </div>
+	   <div id="content">
+	   <p>Літні Олімпійські ігри 2016 — XXXI Літні Олімпійські ігри, що відбувались з 5 по 21 серпня 2016 року в Ріо-де-Жанейро (Бразилія)
+         Це були перші Олімпійські ігри, що проходили в Південній Америці, другі в Латинській Америці після Олімпійських ігор 1968 року в Мехіко і перші з 2000 року,
+		 що проходили в південній півкулі. На Олімпіаді було розіграно рекордну кількість комплектів медалей (306) і взяли участь рекордна кількість країн (206), 
+		 в тому числі вперше Косово і Південний Судан.
+         <h2>Вибори місця проведення</h2>
+         Місто-господар Олімпійських ігор-2016 визначили на сесії МОК у Копенгагені 2 жовтня 2009 року. 
+		 Крім Ріо-де-Жанейро, у фіналі за проведення Олімпіади змагалися Мадрид, Токіо та Чикаго. Заявки також подали, але в остаточний перелік претендентів не були включені Баку, Доха, Прага.
+       </p>
+       </div>
+	   
+	   
+	   </div>
+	 <table border="2">
+	 <tr>
+	       <th colspan="5">
+		     Результати подання заявок міст-кандидатів
+			 </th>
+			 </tr>
+			 <tr>
+			 <th>Місто</th>
+			 <th>НОК</th>
+			 <th>1 раунд</th>
+			 <th>2 раунд</th>
+			 <th>3 раунд</th>
+			 </tr>
+			 <tr>
+			 <td><strong>Ріо-де-Жанейро</strong></td>
+	          <td><img src="brazil.png"></strong>Бразилія</strong></td>
+	              <td>26</td>
+				  <td>46</td>
+				  <td>66</td>
+				</tr>
+				 <tr>
+			 <td><strong>Мадрид</strong></td>
+	          <td><img src="spain.png"></strong>Іспанія</strong></td>
+	              <td>28</td>
+				  <td>29</td>
+				  <td>32</td>
+				</tr>
+				
+			  <td><strong>Токіо</strong></td>
+	          <td><img src="japan.png"></strong>Японія</strong></td>
+	              <td>22</td>
+				  <td>20</td>
+				  <td>.</td>
+				</tr>
+		      <td><strong>Чикаго</strong></td>
+	          <td><img src="usa.png"></strong>Сша</strong></td>
+	              <td>18</td>
+				  <td>.</td>
+				  <td>.</td>
+				</tr>
+			</table>
+		
+	   <ul>
+	       <h3><strong>Посилання</strong></h3>
+	      <li><a href='#'>Літні Паралімпійські ігри 2016 </a></li>
+		  <li><a href='#'>Україні на літніх Олімпійських іграх 2016 </a></li>
+		  <li><a href='#'>Список українських спортсменів - учасників Олімпійських ігор 2016 </a></li>
+		 
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   </ul>
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 </div>
+	
+	
+</body>
+	 
