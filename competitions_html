@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+	 <title>Літні Олімпійські ігри</title
+	 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans  ">
+     <link rel="stylesheet" type="text/css" href= "style.css">
+</head>
+<body>
+<div class = "container">
+     <div id = "header">
+	 <h1>Літні Олімпійські ігри 2016</h1>
+	 <img src ="logo.png"width="100" >
+	 <ul class="navbar">
+	     <li class="active"><a href="index.html">Гловна</a></li>
+         <li><a href ="competitions.html">Змагання</a></li>
+		<li><a href ="medals.html">Медальний залік</a></li>
+	   </ul>
+	   </div>
+	   <div id="content">
+	   <p><h2>Змагання</h2>
+        Програма змагань залишилась майже така сама, що й на попередніх Іграх. 9 жовтня 2009 року на тій ж сесії МОК, 
+		де було обрано місто, пройшло голосування, на якому було прийнято рішення про включення регбі-7 та гольфу в список олімпійських видів спорту.
+        </p>
+       </div>
+	   
+	   </p>
+       <h2><strong>Деякі види змагань</strong></h3>
+	   <ul>
+	   <li><img src="sports/rowing.png">Академічне веслування</li>
+	   <li><img src="sports/badminton.png">Бадмінтон</li>
+	   <li><img src="sports/basketball.png">Баскетбол</li>
+	   <li><img src="sports/box.png">Бокс</li>
+	   <li><img src="sports/wrestling.png">Боротьба</li>
+       </ul>  
+	         <ul>
+			 <li>Греко-римський стиль</li>
+	         <li>Вільний стиль</li>
+			 </ul>
+      
+
+       <ul>
+	   <li><img src="sports/weightlifting.png">Важка атлетика</li>
+	   <li><img src="sports/cycling.png">Велоспорт</li>
+       </ul>
+             <ul>
+			 <li>Трекові гонки</li>
+	         <li>Шосейні гонки</li>
+             <li>Маунтінбайк</li>
+	         <li>BMX</li>
+			 </ul>	   
+	   
+	   
+	  
+
+
+
+
+	  </div>
+	 
+	
+	 
+	 
+	 
+	 
+	 
+	 </div>
+	
+	
+</body>
