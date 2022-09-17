@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+	 <title>Літні Олімпійські ігри</title
+	 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans  ">
+     <link rel="stylesheet" type="text/css" href= "style.css">
+</head>
+<body>
+<div class = "container">
+     <div id = "header">
+	 <h1>Літні Олімпійські ігри 2016</h1>
+	 <img src ="logo.png"width="100" >
+	 <ul class="navbar">
+	     <li class="active"><a href="index.html">Гловна</a></li>
+         <li><a href ="competitions.html">Змагання</a></li>
+		<li><a href ="medals.html">Медальний залік</a></li>
+	   </ul>
+	   </div>
+	   <h2><strong>Медальний залік на Літніх Олімрійських іграх 2016</strong></h2>
+	   <table border="2">
+	 <tr>
+	       <th colspan="5">
+		    <img src="olympic_rings.png"> Загальна кількість медалей
+			 </th>
+			 </tr>
+			 <tr>
+			 <th>Місце</th>
+			 <th>Країна</th>
+			 <th>Золото <bgcolor="#FFD700"></th>
+			 <th>Срібло <bgcolor="Silver"></th>
+			 <th>Бронза <bgcolor="#B8860B"></th>
+			 <th>Всього</th>
+			 </tr>
+			 <tr>
+			 <td><strong>1</strong></td>
+	          <td><img src="usa.png"></strong>США</strong></td>
+	              <td>46</td>
+				  <td>37</td>
+				  <td>38</td>
+				  <td>121</td>
+				</tr>
+				 <tr>
+			 <td><strong>2</strong></td>
+	          <td><img src="great_britain.png"></strong>Великобританія</strong></td>
+	              <td>27</td>
+				  <td>23</td>
+				  <td>17</td>
+				  <td>67</td>
+				</tr>
+				
+			  <td><strong>3</strong></td>
+	          <td><img src="china.png"></strong>Китай</strong></td>
+	              <td>26</td>
+				  <td>18</td>
+				  <td>26</td>
+				  <td>70</td>
+				  
+				</tr>
+				<tr>
+				<th>Всього</th>
+	            <th>307</th>
+				<th>360</th>
+				<th>974</th>
+				</tr>
+		     </table>
